@@ -15,9 +15,6 @@ Welcome to my GitHub profile! I'm a 20-year-old technology and programming enthu
 - **Angular**, **React Native**
 - Databases like **MySQL** and **PostgreSQL**
 
-### 📂 What You'll Find Here:
-Most of my repositories will be related to mobile and cross-platform app development using Kotlin, but I also love exploring new technologies and sharing projects in different areas.
-
 ### 🌱 Constantly Growing
 I'm a firm believer in continuous improvement. I'm always open to learning and collaborating on projects that help me grow as a developer.
 
