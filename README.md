@@ -8,5 +8,5 @@ In late 2024, while job hunting, I realized the importance of having a portfolio
 Soon, I plan to develop a website to centralize my online profile.
 
 ## Social networks
-LinkedIn: https://www.linkedin.com/in/alejandro-ortiz-fuentes-93b086325
-X: https://x.com/aleorfu
+- LinkedIn: https://www.linkedin.com/in/alejandro-ortiz-fuentes-93b086325
+- X: https://x.com/aleorfu
