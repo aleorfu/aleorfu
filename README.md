@@ -3,10 +3,4 @@ Mi nombre es Alejandro Ortiz Fuentes, también conocido en internet como Aleorfu
 
 Este viaje me llevó a cursar una [formación profesional superior](https://sevilla-reyes.safa.edu/) en Desarrollo de Aplicaciones Multiplataforma. Ahora que he terminado mis estudios, estoy centrado en dominar el lenguaje C#. Su versatilidad y compatibilidad con muchas plataformas me permiten crear una amplia gama de aplicaciones, desde aplicaciones web y de escritorio hasta videojuegos en [Godot](https://godotengine.org/), que es de código abierto y me da más libertad para mis creaciones. **Desarrollar videojuegos sigue siendo mi pasión**.
 
-A finales de 2024, mientras buscaba trabajo, me di cuenta de la importancia de tener un portafolio. Por ello, estoy empezando a desarrollar pequeños proyectos para seguir aprendiendo y mostrar mis habilidades.
-
-Pronto, planeo desarrollar un sitio web para centralizar mi perfil en línea.
-
-## Redes sociales
-- [LinkedIn](https://www.linkedin.com/in/alejandro-ortiz-fuentes-93b086325)
-- [X](https://x.com/aleorfu)
+[LinkedIn](https://www.linkedin.com/in/alejandro-ortiz-fuentes-93b086325)
